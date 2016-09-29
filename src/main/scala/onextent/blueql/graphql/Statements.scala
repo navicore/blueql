@@ -16,7 +16,7 @@
 
 package onextent.blueql.graphql
 
-import onextent.bluecql.Config
+import onextent.blueql.Config
 import org.antlr.runtime.{ANTLRFileStream, CommonTokenStream}
 import org.apache.cassandra.cql3.statements.{CreateKeyspaceStatement, CreateTableStatement, CreateTypeStatement, ParsedStatement}
 import org.apache.cassandra.cql3.{CqlLexer, CqlParser}

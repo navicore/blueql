@@ -18,6 +18,7 @@ package onextent.blueql
 
 import java.io.File
 
+import onextent.blueql.graphql.CodeGenerator
 import org.apache.log4j.BasicConfigurator
 import org.rogach.scallop.ScallopConf
 import org.slf4j.LoggerFactory
