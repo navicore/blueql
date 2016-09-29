@@ -16,8 +16,6 @@
 
 package onextent.blueql
 
-import onextent.blueql.graphql.Statements
-import org.apache.cassandra.cql3.statements.{CreateKeyspaceStatement, CreateTableStatement, CreateTypeStatement}
 import org.scalatest.FlatSpec
 
 class TestCollections extends FlatSpec with Config {
