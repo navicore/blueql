@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/navicore/bluecql.svg?branch=master)](https://travis-ci.org/navicore/bluecql)
+[![Build Status](https://travis-ci.org/navicore/blueql.svg?branch=master)](https://travis-ci.org/navicore/blueql)
 
 # BlueQL
 
